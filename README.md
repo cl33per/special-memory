@@ -8,11 +8,11 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/cl33per/special-memory)
 ![GitHub last commit](https://img.shields.io/github/last-commit/cl33per/special-memory)
 
-### Summary
+## Summary
 
 This is a simple boiler MERN stack boiler plate with a configure and working mongodb connection and some seeds to go along with it. 
 
-### Important
+## Important
 
 Make sure to run `npm install && npm run client-install`
 
