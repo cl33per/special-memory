@@ -14,11 +14,8 @@ This is a simple boiler MERN stack boiler plate with a configure and working mon
 
 ### Important
 
-Make sure to run 'npm install && npm run client-install'
+Make sure to run `npm install && npm run client-install`
 
 ## Bugs and feature requests
 
 Have a bug or a feature request? [please open a new issue](https://github.com/cl33per/projectI/issues/new)
-
- 
-
