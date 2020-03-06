@@ -10,7 +10,7 @@
 
 ## Summary
 
-This is a simple boiler MERN stack boiler plate with a configure and working mongodb connection and some seeds to go along with it. 
+This is a simple boiler MERN stack boiler plate with a configure and working mongodb connection and some seeds to go along with it.
 
 ## Important
 
